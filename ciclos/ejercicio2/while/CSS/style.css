@@ -1,0 +1,69 @@
+
+.cuadro{
+    border: 2px solid #000;
+    border-radius: 21px;
+    width: 320px;
+    padding: 10px;
+}
+
+.cuadro2{
+    border: 2px solid #000;
+    border-radius: 21px;
+    width: 320px;
+    padding: 10px;
+}
+.cuadro2 h2{
+    font-size: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: -10px;
+    margin-left: -8px;
+    width: 312px;  
+    height: 30px;
+    padding-left: 10px;
+    color: white;
+    background-color: rgb(222, 236, 15);
+}
+
+.cuadro h2{
+    font-size: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: -10px;
+    margin-left: -8px;
+    width: 312px;  
+    height: 30px;
+    padding-left: 10px;
+    color: white;
+    background-color: green;
+}
+
+
+
+.cuadro input{
+    border: none; 
+    border-bottom: 3px solid rgb(156, 150, 150);
+    width: 300px; 
+    border-radius: 1px;
+   
+}
+
+.cuadro button{
+    margin-top: -10px;
+}
+.cuadro .fa-comments {
+    position: absolute;
+    left: 380px;
+    top: 110px;
+    font-size: 20px;
+    transform: translateY(-50%);
+    
+}
+
+#mostrar{
+    text-align: left;
+}

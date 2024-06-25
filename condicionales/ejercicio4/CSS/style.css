@@ -1,0 +1,123 @@
+
+.cuadro{
+    border: 2px solid #000;
+    border-radius: 21px;
+    width: 320px;
+    padding: 10px;
+}
+
+.cuadro2{
+    border: 2px solid #000;
+    border-radius: 21px;
+    width: 320px;
+    padding: 10px;
+    height: 280px;
+}
+.cuadro2 h2{
+    font-size: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: -10px;
+    margin-left: -8px;
+    width: 312px;  
+    height: 30px;
+    padding-left: 10px;
+    color: white;
+    background-color: rgb(222, 236, 15);
+}
+
+.cuadro h2{
+    font-size: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: -10px;
+    margin-left: -8px;
+    width: 312px;  
+    height: 30px;
+    padding-left: 10px;
+    color: white;
+    background-color: green;
+}
+
+
+
+.cuadro input{
+    border: none; 
+    border-bottom: 3px solid rgb(156, 150, 150);
+    width: 300px; 
+    border-radius: 1px;
+   
+}
+
+.cuadro button{
+    margin-top: -10px;
+}
+.cuadro .fa-comments {
+    position: absolute;
+    left: 380px;
+    top: 110px;
+    font-size: 20px;
+    transform: translateY(-50%);
+    
+}
+
+.square {
+    width: 70px;  /* Anchura del cuadrado */
+    height: 70px; /* Altura del cuadrado */
+    margin: 5px;
+    margin-left: 20px;
+}
+
+.red-border {
+    border: 5px solid red;
+}
+
+.green-border {
+    border: 5px solid green;
+}
+
+.blue-border {
+    border: 5px solid blue;
+}
+
+#mostrar-cuadrados{
+    display: flex;
+}
+
+#lado1{
+    margin-left: -92px;
+    margin-top: -33px;
+}
+
+#lado2{
+    margin-top: 22px;
+}
+
+#lado3{
+    margin-left: -92px;
+    margin-top: -33px;
+}
+
+#lado4{
+    margin-top: 22px;
+}
+
+#lado5{
+    margin-left: -92px;
+    margin-top: -33px;
+}
+
+#lado6{
+    margin-top: 22px;
+}
+
+#imagen{
+    display: flex;
+    margin-top: 130px;
+    margin-left: -252px;
+    
+}
